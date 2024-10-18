@@ -1,0 +1,3 @@
+*Çalıştırılacak olan bilgisayarda IMAGEMAGICK programının kurulu olması gerekiyor. 
+IMAGEMAGICK Program Path kodun en üst kısmında verilmektedir.
+* Resim ve video Pathlerini kod kendi dizininde otomatik bulduğu için o pathler için herhangi bir düzenleme yapılmsaı gerekmemektedir.
